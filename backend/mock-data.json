@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "text": "do something else3d3ed",
+      "done": false,
+      "createdAt": "2022-10-11T10:36:54.334Z"
+    },
+    {
+      "id": 3,
+      "text": "do another thing",
+      "done": false,
+      "createdAt": "2022-10-12T11:36:54.334Z"
+    },
+    {
+      "text": "hihi",
+      "done": true,
+      "id": "01GFB0XS38KFMK2H4EAFVBY3CQ",
+      "createdAt": "2022-10-13T10:34:03.752Z"
+    },
+    {
+      "text": "byebye",
+      "done": true,
+      "id": "01GFB0Y7V25EE9FSEPCP3ESGEY",
+      "createdAt": "2022-10-14T10:34:18.850Z"
+    },
+    {
+      "text": "looloo1112",
+      "done": false,
+      "id": "01GFB98D60P1PTW5EVGM47FAPE",
+      "createdAt": "2022-10-12T12:59:40.608Z"
+    }
+  ]
+}
